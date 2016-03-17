@@ -1,0 +1,8 @@
+{
+  "name": "wiredep-bowerrc-ignore-dep",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-ui-list-view": "latest"
+  }
+}

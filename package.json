@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "gulp",
+    "postinstall": "bower install"
+  },
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "wiredep": "^3.0.0"
+  }
+}
